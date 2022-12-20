@@ -205,13 +205,13 @@ h3 {
 
 .time-axis .left .jiantou {
     right: 0px;
-    background: url(images/r-jiantou.png);
+    background: url(https://myblog-1257298572.cos.ap-shanghai.myqcloud.com/loveTimeline/images/r-jiantou.png);
     
 }
 
 .time-axis .right .jiantou {
     left: 0px;
-    background: url(images/l-jiantou.png);
+    background: url(https://myblog-1257298572.cos.ap-shanghai.myqcloud.com/loveTimeline/images/l-jiantou.png);
     
 }
 
