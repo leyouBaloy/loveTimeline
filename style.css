@@ -1,7 +1,8 @@
 body{
     margin: 0;
     height: 100vh;
-    background: linear-gradient(to right, #d299c2 , #fef9d7);
+    /* background-image: -gradientlinear(to bottom, #d299c2 , #fef9d7); */
+    background-image: url('https://myblog-1257298572.cos.ap-shanghai.myqcloud.com/loveTimeline/images/yinghua4.jpg');
 }
 
 /* 落叶背景 */
